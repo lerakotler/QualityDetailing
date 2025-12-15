@@ -1,0 +1,2 @@
+# QualityDetailing
+course paper
